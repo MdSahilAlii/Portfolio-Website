@@ -81,8 +81,8 @@ const WORDS = ["Computer Science Student", "Tech Enthusiast"];
 const TECH_STACK = ["MongoDB", "Express", "React", "Node.js"];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/MdSahilAlii/" },
-  { icon: Linkedin, link: "www.linkedin.com/in/mdsahilali" },
-  { icon: Instagram, link: "https://www.instagram.com/accounts/login/?next=%2Fsahiil_.__%2F&source=omni_redirect" }
+  { icon: Linkedin, link: "https://www.linkedin.com/in/mdsahilali" },
+  { icon: Instagram, link: "https://www.instagram.com/sahiil_.__?igsh=MWFsZW5obnZkeWZtaQ%3D%3D&utm_source=qr" }
 ];
 
 const Home = () => {
