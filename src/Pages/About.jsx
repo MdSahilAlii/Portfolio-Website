@@ -176,7 +176,8 @@ const AboutPage = () => {
     {
       icon: Globe,
       color: "from-[#6366f1] to-[#a855f7]",
-      value: YearExperience,
+      value: '2',
+      // value:0 YearExperience,
       label: "Years of Experience",
       description: "Continuous learning journey",
       animation: "fade-left",
