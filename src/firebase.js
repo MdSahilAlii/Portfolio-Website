@@ -4,15 +4,16 @@ import { collection, addDoc, getDocs } from "@firebase/firestore"; // Perbarui i
 
 
 // Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyB-lfUt1adpQ0KYcFFW_oAWTJVfHDOOZy8",
-  authDomain: "portofolio-web-3e8e8.firebaseapp.com",
-  databaseURL: "https://portofolio-web-3e8e8-default-rtdb.firebaseio.com",
-  projectId: "portofolio-web-3e8e8",
-  storageBucket: "portofolio-web-3e8e8.firebasestorage.app",
-  messagingSenderId: "25195509306",
-  appId: "1:25195509306:web:2b635dcf997137bf612703"
- };
+  apiKey: "AIzaSyCL3G1AYsmqjj0ksRqBxZeSl9i5X6IXLF0",
+  authDomain: "portfolio-website-f587e.firebaseapp.com",
+  projectId: "portfolio-website-f587e",
+  storageBucket: "portfolio-website-f587e.firebasestorage.app",
+  messagingSenderId: "471461018678",
+  appId: "1:471461018678:web:44262c1a407b1f6884ec97",
+  measurementId: "G-9YM110GJX6"
+};
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
